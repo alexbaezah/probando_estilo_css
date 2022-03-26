@@ -1,0 +1,52 @@
+#centrado {
+    align-self: center;
+    text-align: center;
+
+}
+
+#fondo {
+    background-color: gray;
+
+}
+
+#color_menu {
+    color: white;
+
+}
+
+#primero {
+    background-color: lightblue;
+    padding: 100px;
+    border: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+#segundo {
+    background-color: yellow;
+    padding: 100px;
+    border: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#tercero {
+    background-color: orange;
+    padding: 100px;
+    border: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+#cuarto{
+    background-color: red;
+    padding: 100px;
+    border: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+
+}
+
